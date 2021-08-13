@@ -1,6 +1,6 @@
 {
-  "name": "canvas-eslint",
-  "version": "1.0.0",
+  "name": "canvas-creative-eslint",
+  "version": "1.0.2",
   "description": "Eslint + Prettier web projects configurations.",
   "main": "index.js",
   "scripts": {
